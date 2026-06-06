@@ -1,0 +1,14 @@
+# Quartus compilation artifacts
+db/
+incremental_db/
+output_files/
+
+# Quartus workspace and backup files
+*.qws
+*.bak
+*_assignment_defaults.qdf
+
+# Quartus report and summary files
+*.rpt
+*.smsg
+*.summary
