@@ -76,6 +76,7 @@ Once the progress bar reaches 100%, the board is programmed and ready to play!
 ├── BlackJackSim.qpf      # Quartus Project File
 ├── BlackJackSim.qsf      # Quartus Settings (Pin assignments for DE10-Lite)
 └── README.md             # Project documentation
+```
 
 ---
 
